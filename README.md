@@ -90,7 +90,7 @@ For more details about each function, see the corresponding help page in R:
 
 If you use CARhy, please cite:
 
-Huang, W., Menet, J. S., & Sinha, S. (2026). CARhy: Comparative Assessment of Circadian Rhythms in Transcriptomic Experiments with Multiple Conditions. arXiv preprint arXiv:2604.26765.
+Huang, W., Menet, J. S., & Sinha, S. (2026). CARhy: Comparative Assessment of Circadian Rhythms in Transcriptomic Experiments with Multiple Conditions. An older version of this paper with a slightly different title is available at https://arxiv.org/abs/2604.26765. 
 
 ## License
 
